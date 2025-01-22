@@ -19,7 +19,7 @@ Los **sensores** serían los encargados de recibir dicha información.
 
 El **entorno** podemos pensarlo como lo que nos rodea, en donde nos desenvolvemos y en donde vivimos, entonces podemos decir lo mismo de un **entorno** en el que se desenvuelve un agente, para nosotros es lo que nos rodea y lo que percibimos, para el agente sería "lo mismo".
 
-<img src="https://proyectoscc.unison.mx/maestros/eduardo/cursos/inar20251/img/00-AgentesRacionales-00.png " width="400" height="250">
+<img src="https://proyectoscc.unison.mx/maestros/eduardo/cursos/inar20251/img/00-AgentesRacionales-00.png" width="400" height="250">
 
 Nos quedan dos conceptos también muy importantes, el agente no solo percibe información de su entorno, si no también da como salida **acciones** por medio de **actuadores**, esto lo podemos pensar como un pequeño robot que tiene la tecnología para transportarse de un lado a otro, sus percepciones podrían ser el camino y las recibe mediante sensores que podrían ser camarás, entonces sus **actuadores** serían las llantas/piernas que le permitan hacer la **acción** de caminar.
 
